@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "firstName": "Tom",
+  "lastName": "Withly",
+  "age": 45,
+  "phoneNumber": "0971213123",
+  "taxId": 1213,
+  "isMarried": false,
+  "isHasChildren": true,
+  "children" :[{
+    "childrenName": "Ivan",
+    "age": 13
+  },
+  {
+    "childrenName": "Polina",
+    "age": 7
+  }],
+   "favoriteSports":["Football", "Cricket"],
+
+   "friends": ["Mary", 10, false, true],
+   
+  "address": {
+       "country": "England"
+       "city": "London"
+       "zip": "00991",
+       "postal": true
+} }
