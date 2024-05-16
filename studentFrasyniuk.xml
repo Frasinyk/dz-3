@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentList>
+	<courses coursesName= "QA">
+		<student firstName="Jon" lastName="Obama">
+			<age>45</age>
+			<phoneNumber>0971231213</phoneNumber>
+			<taxId>123</taxId>
+			<isMarried>true</isMarried>
+			<ishasChildren>true</ishasChildren>
+		</student>
+		<student firstName="Alina" lastName="Koval">
+			<age>22</age>
+			<phoneNumber>0634564545</phoneNumber>
+			<taxId>444</taxId>
+			<isMarried>false</isMarried>
+			<ishasChildren>false</ishasChildren>
+		</student>
+	</courses>
+	<courses coursesName = "PHP Developer">
+		<student firstName="Andry" lastName="Flag">
+			<age>25</age>
+			<phoneNumber>0977777777</phoneNumber>
+			<taxId>121</taxId>
+			<isMarried>false</isMarried>
+			<ishasChildren>true</ishasChildren>
+		</student>
+	</courses>
+</studentList>
